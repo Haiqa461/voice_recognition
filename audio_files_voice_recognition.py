@@ -4,7 +4,7 @@ import speech_recognition as sr
 recognizer = sr.Recognizer()
 
 # Path to the audio file
-audio_file_path = "D:\Recording.wav"
+audio_file_path = "D:\sample.wav"
 
 # Load the audio file
 with sr.AudioFile(audio_file_path) as source:
