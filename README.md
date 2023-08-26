@@ -1,2 +1,2 @@
 # voice_recognition
-This is a voice recognition project with python programming language at Info aid tech with Haiqa Qaiser
+This is a voice recognition project in python programming language task assign by our internship at Info aid tech.
